@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techietag&label=Profile%20views&color=0e75b6&style=flat" alt="techietag" /> </p>
 -->
 <p>
-<h4>Techie Tag is a go-to destination for educational tutorials and small projects!. Our mission is to empower learners of all ages and backgrounds to unlock their creative potential through hands-on learning experiences. </h4>
+Techie Tag is a go-to destination for educational tutorials and small projects!. Our mission is to empower learners of all ages and backgrounds to unlock their creative potential through hands-on learning experiences. 
 
-<h4>
+
 Techie Tag believes that learning should be fun, accessible, and practical. That's why we offer a wide range of tutorials and small projects designed to cater to beginners and experts alike. Whether you're a curious beginner looking to dip your toes into a new skill or an experienced enthusiast seeking to deepen your knowledge, we've got you covered.
-</h4>
+
 
 <h4>
 This github repo covers a diverse range of topics including Java, Spring Boot, CI/CD, devops, Angular, docker etc
