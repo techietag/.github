@@ -30,3 +30,5 @@ This github repo covers a diverse range of topics including Java, Spring Boot, C
   <td><img src="https://github.com/techietag/.github/assets/5674882/5b3a6a61-d983-4209-a4a7-e12dc40f498d" alt="spring-boot" width="40" height="40"/> </td>
   <td><img src="https://github.com/techietag/.github/assets/5674882/3e9811ce-824f-4f7f-95a2-dddffd9235a6" alt="docker" width="40" height="40"/> </td>
   <td><img src="https://github.com/techietag/.github/assets/5674882/865fa116-4167-4d27-b826-9c0fab6f9b85" alt="redis" width="40" height="40"/> </td>
+</tr>
+</table>
