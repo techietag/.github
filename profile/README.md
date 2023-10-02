@@ -15,13 +15,7 @@ Techie Tag believes that learning should be fun, accessible, and practical. That
 This github repo covers a diverse range of topics including Java, Spring Boot, CI/CD, devops, Angular, docker etc
 
 </strong>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <img src="https://github.com/techietag/.github/assets/5674882/eb47cca3-ccf8-4935-9a1c-71a17b399400" alt="email" width="20" height="20"/>
-  <a href="thetechietag@gmail.com">mailto:thetechietag@gmail.com</a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
 <table border="0">
 <tr>
   <td><img src="https://github.com/techietag/.github/assets/5674882/1cbb9949-a54c-43cf-a856-87b8a79d16af" alt="java" width="40" height="40"/> </td>
@@ -34,3 +28,12 @@ This github repo covers a diverse range of topics including Java, Spring Boot, C
 
 </tr>
 </table>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <img src="https://github.com/techietag/.github/assets/5674882/eb47cca3-ccf8-4935-9a1c-71a17b399400" alt="email" width="20" height="20"/>
+  <a href="thetechietag@gmail.com">mailto:thetechietag@gmail.com</a>
+</p>
+
